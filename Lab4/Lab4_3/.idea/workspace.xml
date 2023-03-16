@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16e057ea-5dba-40ae-822d-eeeb74e29f1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/src/test/java/tqs/selenium/DriversTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_1/src/test/java/tqs/selenium/HelloChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/src/main/java/tqs/blazedemo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/src/test/java/tqs/blazedemo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/src/test/java/tqs/blazedemo/BlazedemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4_2/Blazedemo/src/test/java/tqs/blazedemo/Junit5BlazedemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tqs/lab4_3/BlazePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tqs/lab4_3/pages/ChooseFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tqs/lab4_3/pages/ConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tqs/lab4_3/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tqs/lab4_3/pages/PurchasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tqs/lab4_3/BlazePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tqs/lab4_3/pages/ChooseFlightPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tqs/lab4_3/pages/ConfirmationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tqs/lab4_3/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tqs/lab4_3/pages/PurchasePage.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N3xVdxVeXjGbHi4Q1V5P1c4Rn2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "/Users/gabrielhall/Documents/UA/3ºAno/TQS_102851/Lab4/Lab4_3/src/test/java/tqs/lab4_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16e057ea-5dba-40ae-822d-eeeb74e29f1c" name="Changes" comment="" />
+      <created>1678906593837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678906593837</updated>
+      <workItem from="1678906595775" duration="2599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
