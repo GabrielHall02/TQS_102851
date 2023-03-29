@@ -4,6 +4,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import tqs.cars.model.Car;
+import tqs.cars.model.CarDto;
 import tqs.cars.services.CarManagerService;
 
 import java.util.List;
@@ -19,8 +20,10 @@ public class CarController {
     }
 
 
-    @PostMapping("/cars") public ResponseEntity<Car> createCar(@RequestBody Car oneCar) {
+    @PostMapping("/cars") public ResponseEntity<Car> createCar(@RequestBody CarDto carDto) {
         HttpStatus status = HttpStatus.CREATED;
+        Car oneCar = new Car(carDto.getMaker(), carDto.getModel());
+        
         Car saved = carManagerService.save(oneCar);
         return new ResponseEntity<>(saved, status);
     }
