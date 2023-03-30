@@ -13,3 +13,17 @@
 
 ### Technical debt
 
+12 minutes debt time.
+
+Debt time represents the amount of time required to fix all the code issues that were identified.
+
+### Vulnerability fixed
+
+![CarDto-POST](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-29%20at%2016.39.38.png)
+
+![CarDto-class](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-29%20at%2016.40.03.png)
+
+
+![Result](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-29%20at%2016.39.38.png)
+
+
