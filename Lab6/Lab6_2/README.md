@@ -27,3 +27,8 @@ Debt time represents the amount of time required to fix all the code issues that
 ![Result](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-29%20at%2016.39.38.png)
 
 
+### Jacoco & Coverage
+
+![New-Overview](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-30%20at%2010.52.09.png)
+
+![Coverage](https://github.com/GabrielHall02/TQS_102851/blob/main/Lab6/Lab6_2/Screenshot%202023-03-30%20at%2011.02.55.png)
