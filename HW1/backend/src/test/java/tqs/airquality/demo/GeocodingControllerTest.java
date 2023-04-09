@@ -13,10 +13,9 @@ import tqs.airquality.demo.models.Geocoding;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
-public class GeocodingTest {
+public class GeocodingControllerTest {
 
     @Mock
     private GeocodingController geocodingController;
